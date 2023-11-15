@@ -1,0 +1,7 @@
+--Servers--
+localhost:8080
+localhost:8081
+localhost:8083
+--Clients--
+localhost:1337
+localhost:1338
