@@ -29,7 +29,7 @@ message CorrectValue {
 service AuctionService {
   rpc Bid(BidRequest) returns (Ack) {}
   rpc Result(EmptyMessage) returns (ResultRequest) {}
-  rpc ServerIsDesynchronized(CorrectValue) returns (Ack) {}
+  rpc ServerIsDesynchronized(ResultRequest) returns (Ack) {}
 
 }
 
