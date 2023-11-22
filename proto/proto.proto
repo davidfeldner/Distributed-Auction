@@ -17,6 +17,7 @@ message ResultRequest {
   bool is_over = 1;
   int32 highest_bid = 2;
   string highest_bidder = 3;
+  
 }
 
 message EmptyMessage {

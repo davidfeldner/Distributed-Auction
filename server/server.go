@@ -7,6 +7,7 @@ import (
 	"net"
 	"os"
 	"strconv"
+	"time"
 
 	"google.golang.org/grpc"
 )
@@ -17,6 +18,7 @@ var port int
 var is_over bool 
 var highest_bid int32
 var highest_bidder string
+var auctionEndsAt time.Time
 
 
 func main() {
@@ -24,11 +26,16 @@ func main() {
 	if err != nil {
 		log.Fatalf("error opening file: %v", err)
 	}
-	if len(os.Args) < 2 {
-		log.Fatal("Usage : go run server.go <port>")
+	if len(os.Args) < 3 {
+		log.Fatal("Usage : go run server.go <port> <time auction ends>")
 	}
 	//ip = os.Args[1]
 	port, err = strconv.Atoi(os.Args[1])
+	if err != nil {
+		log.Fatal("Usage : go run server.go <port> <time auction ends>")
+	}
+	auctionEndsAt, err = time.Parse("2006-01-02 15:04:05", os.Args[2])
+	go isAuctionOver()
 	if err != nil {
 		log.Fatal("Usage : go run server.go <port>")
 	}
@@ -49,6 +56,14 @@ func main() {
 	}
 }
 
+func isAuctionOver() {
+	if auctionEndsAt.Before(time.Now()) {
+		is_over = true
+		return
+	} 
+	time.Sleep(time.Until(auctionEndsAt))
+	is_over = true
+}
 
 type AuctionServer struct {
 	proto.UnimplementedAuctionServiceServer
