@@ -13,24 +13,20 @@ message BidRequest {
   int32 bid = 2;
 }
 
-message ResultRequest {
+message ResultResponse {
   bool is_over = 1;
   int32 highest_bid = 2;
   string highest_bidder = 3;
-  
 }
 
 message EmptyMessage {
     
 }
-message CorrectValue {
-  int32 value = 1;
-}
 
 service AuctionService {
   rpc Bid(BidRequest) returns (Ack) {}
-  rpc Result(EmptyMessage) returns (ResultRequest) {}
-  rpc ServerIsDesynchronized(ResultRequest) returns (Ack) {}
+  rpc Result(EmptyMessage) returns (ResultResponse) {}
+  rpc ServerIsDesynchronized(ResultResponse) returns (Ack) {}
 
 }
 

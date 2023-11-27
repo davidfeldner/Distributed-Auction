@@ -1,0 +1,334 @@
+PORT: 8080 2023/11/27 14:59:19 Auction ends at:  2023-11-27 15:15:00 +0100 CET
+PORT: 8080 2023/11/27 14:59:19 until:  940.523989639
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:21 Connection State: CONNECTING
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:21 Connection State: CONNECTING
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:21 Connection State: CONNECTING
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:22 Connection State: CONNECTING
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:22 Connection State: CONNECTING
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:22 Connection State: CONNECTING
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Result-response from server: 
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Highest bidder is 
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Highest bid is 0
+PORT: 8080 2023/11/27 14:59:24 Client c6b0aa91-f211-4475-afe8-e07913e066d1 bid 1
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Bid: 1
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Bid-response from server: message:"success"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Bid: 1
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Bid: 1
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:24 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Result-response from server: highest_bid:1  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Highest bid is 1
+PORT: 8080 2023/11/27 14:59:26 Client bd15c2e4-2375-4aad-850d-c7e1dab19fac bid 2
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Bid: 2
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Bid-response from server: message:"success"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Bid: 2
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Bid: 2
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:26 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:27 Result-response from server: highest_bid:2  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:27 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:27 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:27 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:27 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:27 Highest bid is 2
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:27 I am the highest bidder!
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Result-response from server: highest_bid:2  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Highest bid is 2
+PORT: 8080 2023/11/27 14:59:28 Client c6b0aa91-f211-4475-afe8-e07913e066d1 bid 3
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Bid: 3
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Bid-response from server: message:"success"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Bid: 3
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Bid: 3
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:28 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Result-response from server: highest_bid:3  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Highest bid is 3
+PORT: 8080 2023/11/27 14:59:29 Client bd15c2e4-2375-4aad-850d-c7e1dab19fac bid 4
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Bid: 4
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Bid-response from server: message:"success"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Bid: 4
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Bid: 4
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:29 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:30 Result-response from server: highest_bid:4  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:30 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:30 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:30 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:30 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:30 Highest bid is 4
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:30 I am the highest bidder!
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Result-response from server: highest_bid:4  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Highest bid is 4
+PORT: 8080 2023/11/27 14:59:31 Client c6b0aa91-f211-4475-afe8-e07913e066d1 bid 5
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Bid: 5
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Bid-response from server: message:"success"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Bid: 5
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Bid: 5
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:31 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Result-response from server: highest_bid:5  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Highest bid is 5
+PORT: 8080 2023/11/27 14:59:32 Client bd15c2e4-2375-4aad-850d-c7e1dab19fac bid 6
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Bid: 6
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Bid-response from server: message:"success"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Bid: 6
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Bid: 6
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:32 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Result-response from server: highest_bid:6  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Highest bid is 6
+PORT: 8080 2023/11/27 14:59:33 Client c6b0aa91-f211-4475-afe8-e07913e066d1 bid 7
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Bid: 7
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Bid-response from server: message:"success"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Bid: 7
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Bid: 7
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:33 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:34 Result-response from server: highest_bid:7  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:34 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:34 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:34 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:34 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:34 Highest bid is 7
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:34 I am the highest bidder!
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Result-response from server: highest_bid:7  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Highest bid is 7
+PORT: 8080 2023/11/27 14:59:34 Client bd15c2e4-2375-4aad-850d-c7e1dab19fac bid 8
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Bid: 8
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Bid-response from server: message:"success"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Bid: 8
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Bid: 8
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:34 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Result-response from server: highest_bid:8  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Highest bid is 8
+PORT: 8080 2023/11/27 14:59:35 Client c6b0aa91-f211-4475-afe8-e07913e066d1 bid 9
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Bid: 9
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Bid-response from server: message:"success"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Bid: 9
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Bid: 9
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:35 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Result-response from server: highest_bid:9  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Highest bid is 9
+PORT: 8080 2023/11/27 14:59:37 Client bd15c2e4-2375-4aad-850d-c7e1dab19fac bid 10
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Bid: 10
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Bid-response from server: message:"success"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Bid: 10
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Bid: 10
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:37 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Result-response from server: highest_bid:10  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Highest bid is 10
+PORT: 8080 2023/11/27 14:59:39 Client c6b0aa91-f211-4475-afe8-e07913e066d1 bid 11
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Bid: 11
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Bid-response from server: message:"success"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Bid: 11
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Bid: 11
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:39 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Result-response from server: highest_bid:11  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Highest bid is 11
+PORT: 8080 2023/11/27 14:59:39 Client bd15c2e4-2375-4aad-850d-c7e1dab19fac bid 12
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Bid: 12
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Bid-response from server: message:"success"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Bid: 12
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Bid: 12
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:39 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:40 Result-response from server: highest_bid:12  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:40 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:40 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:40 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:40 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:40 Highest bid is 12
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:40 I am the highest bidder!
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Result-response from server: highest_bid:12  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Highest bid is 12
+PORT: 8080 2023/11/27 14:59:41 Client c6b0aa91-f211-4475-afe8-e07913e066d1 bid 13
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Bid: 13
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Bid-response from server: message:"success"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Bid: 13
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Bid: 13
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:41 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:42 Result-response from server: highest_bid:13  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:42 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:42 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:42 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:42 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:42 Highest bid is 13
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:42 I am the highest bidder!
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:44 Result-response from server: highest_bid:13  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:44 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:44 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:44 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:44 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:44 Highest bid is 13
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:44 I am the highest bidder!
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Result-response from server: highest_bid:13  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Highest bid is 13
+PORT: 8080 2023/11/27 14:59:44 Client bd15c2e4-2375-4aad-850d-c7e1dab19fac bid 14
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Bid: 14
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Bid-response from server: message:"success"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Bid: 14
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Bid: 14
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:44 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:45 Result-response from server: highest_bid:14  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:45 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:45 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:45 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:45 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:45 Highest bid is 14
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:45 I am the highest bidder!
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Result-response from server: highest_bid:14  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Highest bid is 14
+PORT: 8080 2023/11/27 14:59:48 Client c6b0aa91-f211-4475-afe8-e07913e066d1 bid 15
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Bid: 15
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Bid-response from server: message:"success"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Bid: 15
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Bid: 15
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:48 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Result-response from server: highest_bid:15  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Highest bid is 15
+PORT: 8080 2023/11/27 14:59:49 Client bd15c2e4-2375-4aad-850d-c7e1dab19fac bid 16
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Bid: 16
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Bid-response from server: message:"success"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Bid: 16
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Bid: 16
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:49 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:51 Result-response from server: highest_bid:16  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:51 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:51 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:51 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:51 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:51 Highest bid is 16
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:51 I am the highest bidder!
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Result-response from server: highest_bid:16  highest_bidder:"bd15c2e4-2375-4aad-850d-c7e1dab19fac"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Server: 8081 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Server: 8082 is down
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Auction is over: false
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Highest bidder is bd15c2e4-2375-4aad-850d-c7e1dab19fac
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Highest bid is 16
+PORT: 8080 2023/11/27 14:59:52 Client c6b0aa91-f211-4475-afe8-e07913e066d1 bid 17
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Bid: 17
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Bid-response from server: message:"success"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Bid: 17
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Bid-response from server: <nil>
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Bid: 17
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f2caf3b9-3b29-47b4-a849-afa49db51da1 2023/11/27 14:59:52 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Result-response from server: highest_bid:17  highest_bidder:"c6b0aa91-f211-4475-afe8-e07913e066d1"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Server: 8081 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Server: 8082 is down
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Auction is over: false
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Highest bidder is c6b0aa91-f211-4475-afe8-e07913e066d1
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Highest bid is 17
+PORT: 8080 2023/11/27 14:59:55 Client bd15c2e4-2375-4aad-850d-c7e1dab19fac bid 18
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Bid: 18
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Bid-response from server: message:"success"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Bid: 18
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Bid-response from server: <nil>
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Bid: 18
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:f5fba834-0b12-4e1a-8799-2c05a4a13ecb 2023/11/27 14:59:55 Bid-response from server: <nil>

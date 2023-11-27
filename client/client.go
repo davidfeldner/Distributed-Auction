@@ -32,7 +32,7 @@ func readHostsFromFile() {
 	bidderId = uuid.New().String()
 	file, err := os.Open(os.Args[1])
 	if err != nil {
-		log.Fatal(err)
+		logger.Fatal(err)
 	}
 	
 	defer file.Close()
@@ -42,18 +42,21 @@ func readHostsFromFile() {
 		var hostSlice = strings.Split(hostString, ":")
 		hosts = append(hosts, Host{Host: hostSlice[0], Port: hostSlice[1]})
 	}
+	if len(hosts) % 2 == 0 {
+		logger.Fatalf("Cant start application with even amont of servers!")
+	}
 }
 
-func resultRequestIsEqual(a *proto.ResultRequest, b *proto.ResultRequest) bool {
+func ResultResponseIsEqual(a *proto.ResultResponse, b *proto.ResultResponse) bool {
 	return a.IsOver == b.IsOver && a.HighestBid == b.HighestBid && a.HighestBidder == b.HighestBidder
 }
 
 func createConnetionToServers(server Host) {
 	conn, err := grpc.Dial(server.Host + ":" + server.Port, grpc.WithTransportCredentials(insecure.NewCredentials()))
 	if err != nil {
-		log.Printf("could not connect: %v", err)
+		logger.Printf("could not connect: %v", err)
 	}
-	log.Printf("Connection State: %s", conn.GetState().String())
+	logger.Printf("Connection State: %s", conn.GetState().String())
 	//defer conn.Close()
 
 	NewAuctionClient := proto.NewAuctionServiceClient(conn)
@@ -61,18 +64,19 @@ func createConnetionToServers(server Host) {
 }
 
 func main() {
-	if len(os.Args) < 2 {
-		log.Fatal("Usage : go run client.go <hosts file>")
-	}
-	f, err := os.OpenFile("logfile", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
-	if err != nil {
-		log.Fatalf("error opening file: %v", err)
-	}
 	bidderId = uuid.New().String()
+	f, err := os.OpenFile("logfile", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+	logger = log.New(os.Stdout, "CLIENT:"+bidderId+" ", log.LstdFlags)
+	logger.SetOutput(f)
+	if len(os.Args) < 2 {
+		logger.Fatal("Usage : go run client.go <hosts file>")
+	}
+
+	if err != nil {
+		logger.Fatalf("error opening file: %v", err)
+	}
 	maxBid = rand.Int31n(10000)
 	// Make a log file
-	logger = log.New(os.Stdout, "UUID: " + bidderId + " ", log.LstdFlags)
-	logger.SetOutput(f)
 	
 	readHostsFromFile()
 	for _, host := range hosts {
@@ -83,31 +87,31 @@ func main() {
 		time.Sleep(time.Duration(rand.Intn(4)+1) * time.Second)
 		results, err := ResultAll()
 		if err != nil {
-			log.Fatalf("Error when getting results: %s", err)
+			logger.Fatalf("Error when getting results: %s", err)
 		}
 		mostCommon := getMostCommonResult(results)
-		log.Printf("Auction is over: %t", mostCommon.IsOver)
-		log.Printf("Highest bidder is %s", mostCommon.HighestBidder)
-		log.Printf("Highest bid is %d", mostCommon.HighestBid)
+		logger.Printf("Auction is over: %t", mostCommon.IsOver)
+		logger.Printf("Highest bidder is %s", mostCommon.HighestBidder)
+		logger.Printf("Highest bid is %d", mostCommon.HighestBid)
 		for index, result := range results {
-			if !resultRequestIsEqual(result, mostCommon) {
+			if !ResultResponseIsEqual(result, mostCommon) {
 				SendServerIsDesynchronized(mostCommon, AuctionHosts[index])
 			}
 		}
 		if mostCommon.IsOver {
-			log.Printf("Auction is over!\nHighest bidder is %s with bid %d", mostCommon.HighestBidder, mostCommon.HighestBid)
+			logger.Printf("Auction is over!\nHighest bidder is %s with bid %d", mostCommon.HighestBidder, mostCommon.HighestBid)
 			break
 		}
 		if mostCommon.HighestBidder == bidderId {
-			log.Printf("I am the highest bidder!")
+			logger.Printf("I am the highest bidder!")
 			continue
 		}
 		bid, err := calculateNextBid(mostCommon.HighestBid)
 		if err != nil {
 			if err.Error() == "max bid reached" {
-				log.Printf("Max bid reached: %d", maxBid)
+				logger.Printf("Max bid reached: %d", maxBid)
 			} else {
-				log.Fatalf("Error when calculating next bid: %s", err)		
+				logger.Fatalf("Error when calculating next bid: %s", err)		
 			}
 		}
 		AckList := bidAll(bid)
@@ -115,14 +119,14 @@ func main() {
 		
 	}
 }
-func getMostCommonResult(results []*proto.ResultRequest) *proto.ResultRequest {
-	resultMap := make(map[*proto.ResultRequest]int32)
+func getMostCommonResult(results []*proto.ResultResponse) *proto.ResultResponse {
+	resultMap := make(map[*proto.ResultResponse]int32)
 	for _, result := range results {
 		resultMap[result]++
 		
 	}
 	var max int32
-	var maxResult *proto.ResultRequest
+	var maxResult *proto.ResultResponse
 	for res, value := range resultMap {
 		if value > max {
 			max = value
@@ -172,39 +176,59 @@ func bidAll(bid int32) ([]*proto.Ack) {
 func Bid(amount int32, ac proto.AuctionServiceClient) *proto.Ack {
 	request := &proto.BidRequest{Bidder: bidderId, Bid: amount}
 	res, err := ac.Bid(context.Background(), request)
-	log.Printf("Bid: %d", amount)
+	logger.Printf("Bid: %d", amount)
 	if err != nil {
-		log.Printf("Error when calling Bid: %s", err)
+		logger.Printf("Error when calling Bid: %s", err)
 	}
-	log.Printf("Bid-response from server: %s", res)
+	logger.Printf("Bid-response from server: %s", res)
 	return res
 }
 
-func ResultAll() ([]*proto.ResultRequest, error) {
-	results := []*proto.ResultRequest{}
+func ResultAll() ([]*proto.ResultResponse, error) {
+	//If one server is down, we have even amount of servers, which means we cannot vote 
+	//therefore we duplicate the server with the highest id
+	results := []*proto.ResultResponse{}
+	errorPorts:= []string{}
 	for _, ac := range AuctionHosts {
+
 		res, err := Result(ac)
 		if err == nil {
 			results = append(results, res)
+		} else {
+			//get the port in the error
+			errPort := strings.Split(err.Error(), ":")[7]
+			logger.Printf("Server: %s is down", errPort)
+			errorPorts = append(errorPorts, errPort)
+		}
+	}
+	if len(errorPorts) > 0 {
+		if len(errorPorts) % 2 != 0 {
+			//duplicate the request of the more important server
+			if(results[0] != nil){
+				logger.Printf("Even amunt of servers: Duplicating a server to ensure a majority")
+				results = append(results, results[0])
+			}else{
+				logger.Printf("No servers are up")
+			}
 		}
 	}
 	return results, nil
 }
 
-func Result(ac proto.AuctionServiceClient) (*proto.ResultRequest, error) {
+func Result(ac proto.AuctionServiceClient) (*proto.ResultResponse, error) {
 	res, err := ac.Result(context.Background(), &proto.EmptyMessage{})
 	if err != nil {
 		return nil, err
 	}
-	log.Printf("Result-response from server: %s", res)
+	logger.Printf("Result-response from server: %s", res)
 	return res, nil
 }
 
-func SendServerIsDesynchronized(correctValue *proto.ResultRequest, ac proto.AuctionServiceClient) {
+func SendServerIsDesynchronized(correctValue *proto.ResultResponse, ac proto.AuctionServiceClient) {
 	ack, err := ac.ServerIsDesynchronized(context.Background(), correctValue)
 	if err != nil {
-		log.Printf("Error when calling ServerIsDesynchronized: %s", err)
+		logger.Printf("Error when calling ServerIsDesynchronized: %s", err)
+		return
 	}
-	log.Printf("SendServerIsDesynchronized-response from server: %s", ack.Message)
+	logger.Printf("SendServerIsDesynchronized-response from server: %s", ack.Message)
 }
-

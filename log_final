@@ -1,0 +1,1125 @@
+PORT: 8080 2023/11/27 14:10:06 Auction ends at:  2023-11-27 14:12:00 +0100 CET
+PORT: 8080 2023/11/27 14:10:06 until:  113.659265793
+PORT: 8081 2023/11/27 14:10:08 Auction ends at:  2023-11-27 14:12:00 +0100 CET
+PORT: 8081 2023/11/27 14:10:08 until:  111.410306443
+PORT: 8082 2023/11/27 14:10:12 Auction ends at:  2023-11-27 14:12:00 +0100 CET
+PORT: 8082 2023/11/27 14:10:12 until:  107.474413534
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:14 Connection State: CONNECTING
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:14 Connection State: CONNECTING
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:14 Connection State: CONNECTING
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:15 Connection State: CONNECTING
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:15 Connection State: CONNECTING
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:15 Connection State: CONNECTING
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Result-response from server: 
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Result-response from server: 
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Result-response from server: 
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Highest bidder is 
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Highest bid is 0
+PORT: 8080 2023/11/27 14:10:15 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 1
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Bid: 1
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:15 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 1
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Bid: 1
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:15 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 1
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Bid: 1
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:15 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Result-response from server: highest_bid:1  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Result-response from server: highest_bid:1  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Result-response from server: highest_bid:1  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Highest bid is 1
+PORT: 8080 2023/11/27 14:10:16 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 2
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Bid: 2
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:16 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 2
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Bid: 2
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:16 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 2
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Bid: 2
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:16 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Result-response from server: highest_bid:2  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Result-response from server: highest_bid:2  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Result-response from server: highest_bid:2  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Highest bid is 2
+PORT: 8080 2023/11/27 14:10:16 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 3
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Bid: 3
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:16 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 3
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Bid: 3
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:16 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 3
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Bid: 3
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:16 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:18 Result-response from server: highest_bid:3  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:18 Result-response from server: highest_bid:3  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:18 Result-response from server: highest_bid:3  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:18 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:18 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:18 Highest bid is 3
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:18 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Result-response from server: highest_bid:3  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Result-response from server: highest_bid:3  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Result-response from server: highest_bid:3  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Highest bid is 3
+PORT: 8080 2023/11/27 14:10:20 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 4
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Bid: 4
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:20 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 4
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Bid: 4
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:20 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 4
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Bid: 4
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:20 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Result-response from server: highest_bid:4  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Result-response from server: highest_bid:4  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Result-response from server: highest_bid:4  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Highest bid is 4
+PORT: 8080 2023/11/27 14:10:22 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 5
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Bid: 5
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:22 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 5
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Bid: 5
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:22 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 5
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Bid: 5
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:22 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:23 Result-response from server: highest_bid:5  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:23 Result-response from server: highest_bid:5  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:23 Result-response from server: highest_bid:5  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:23 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:23 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:23 Highest bid is 5
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:23 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Result-response from server: highest_bid:5  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Result-response from server: highest_bid:5  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Result-response from server: highest_bid:5  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Highest bid is 5
+PORT: 8080 2023/11/27 14:10:24 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Bid: 6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:24 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Bid: 6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:24 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Bid: 6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:24 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Result-response from server: highest_bid:6  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Result-response from server: highest_bid:6  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Result-response from server: highest_bid:6  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Highest bid is 6
+PORT: 8080 2023/11/27 14:10:25 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 7
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Bid: 7
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:25 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 7
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Bid: 7
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:25 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 7
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Bid: 7
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:25 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Result-response from server: highest_bid:7  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Result-response from server: highest_bid:7  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Result-response from server: highest_bid:7  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Highest bid is 7
+PORT: 8080 2023/11/27 14:10:28 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 8
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Bid: 8
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:28 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 8
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Bid: 8
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:28 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 8
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Bid: 8
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:28 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Result-response from server: highest_bid:8  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Result-response from server: highest_bid:8  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Result-response from server: highest_bid:8  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Highest bid is 8
+PORT: 8080 2023/11/27 14:10:28 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 9
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Bid: 9
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:28 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 9
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Bid: 9
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:28 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 9
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Bid: 9
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:28 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:30 Result-response from server: highest_bid:9  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:30 Result-response from server: highest_bid:9  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:30 Result-response from server: highest_bid:9  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:30 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:30 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:30 Highest bid is 9
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:30 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Result-response from server: highest_bid:9  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Result-response from server: highest_bid:9  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Result-response from server: highest_bid:9  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Highest bid is 9
+PORT: 8080 2023/11/27 14:10:32 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 10
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Bid: 10
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:32 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 10
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Bid: 10
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:32 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 10
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Bid: 10
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:32 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:33 Result-response from server: highest_bid:10  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:33 Result-response from server: highest_bid:10  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:33 Result-response from server: highest_bid:10  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:33 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:33 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:33 Highest bid is 10
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:33 I am the highest bidder!
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Result-response from server: highest_bid:10  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Result-response from server: highest_bid:10  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Result-response from server: highest_bid:10  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Highest bid is 10
+PORT: 8080 2023/11/27 14:10:34 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 11
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Bid: 11
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:34 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 11
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Bid: 11
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:34 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 11
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Bid: 11
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:34 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Result-response from server: highest_bid:11  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Result-response from server: highest_bid:11  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Result-response from server: highest_bid:11  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Highest bid is 11
+PORT: 8080 2023/11/27 14:10:35 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 12
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Bid: 12
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:35 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 12
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Bid: 12
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:35 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 12
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Bid: 12
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:35 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Result-response from server: highest_bid:12  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Result-response from server: highest_bid:12  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Result-response from server: highest_bid:12  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Highest bid is 12
+PORT: 8080 2023/11/27 14:10:36 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 13
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Bid: 13
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:36 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 13
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Bid: 13
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:36 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 13
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Bid: 13
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:36 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Result-response from server: highest_bid:13  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Result-response from server: highest_bid:13  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Result-response from server: highest_bid:13  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Highest bid is 13
+PORT: 8080 2023/11/27 14:10:37 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 14
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Bid: 14
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:37 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 14
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Bid: 14
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:37 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 14
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Bid: 14
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:37 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Result-response from server: highest_bid:14  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Server: 8081 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Result-response from server: highest_bid:14  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Highest bid is 14
+PORT: 8080 2023/11/27 14:10:39 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 15
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Bid: 15
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Bid: 15
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Bid-response from server: <nil>
+PORT: 8082 2023/11/27 14:10:39 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 15
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Bid: 15
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:39 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Result-response from server: highest_bid:15  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Server: 8081 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Result-response from server: highest_bid:15  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Highest bid is 15
+PORT: 8080 2023/11/27 14:10:41 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 16
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Bid: 16
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Bid: 16
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Bid-response from server: <nil>
+PORT: 8082 2023/11/27 14:10:41 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 16
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Bid: 16
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:41 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Result-response from server: highest_bid:16  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Server: 8081 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Result-response from server: highest_bid:16  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Highest bid is 16
+PORT: 8080 2023/11/27 14:10:43 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 17
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Bid: 17
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Bid: 17
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Bid-response from server: <nil>
+PORT: 8082 2023/11/27 14:10:43 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 17
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Bid: 17
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:43 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Result-response from server: highest_bid:17  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Server: 8081 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Result-response from server: highest_bid:17  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Highest bid is 17
+PORT: 8080 2023/11/27 14:10:45 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 18
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Bid: 18
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Bid: 18
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Bid-response from server: <nil>
+PORT: 8082 2023/11/27 14:10:45 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 18
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Bid: 18
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:45 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:47 Result-response from server: highest_bid:18  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:47 Server: 8081 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:47 Result-response from server: highest_bid:18  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:47 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:47 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:47 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:47 Highest bid is 18
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:47 I am the highest bidder!
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Result-response from server: highest_bid:18  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Server: 8081 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Result-response from server: highest_bid:18  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Highest bid is 18
+PORT: 8080 2023/11/27 14:10:47 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 19
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Bid: 19
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Bid: 19
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Bid-response from server: <nil>
+PORT: 8082 2023/11/27 14:10:47 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 19
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Bid: 19
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:47 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:49 Auction ends at:  2023-11-27 14:12:00 +0100 CET
+PORT: 8081 2023/11/27 14:10:49 until:  70.787249871
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:50 Result-response from server: highest_bid:19  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:50 Server: 8081 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:50 Result-response from server: highest_bid:19  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:50 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:50 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:50 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:50 Highest bid is 19
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:50 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Result-response from server: highest_bid:19  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Result-response from server: 
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Result-response from server: highest_bid:19  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Highest bidder is 
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Highest bid is 0
+PORT: 8080 2023/11/27 14:10:51 Server has been made aware that it is desynchronized, attempting fix
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 SendServerIsDesynchronized-response from server: success
+PORT: 8082 2023/11/27 14:10:51 Server has been made aware that it is desynchronized, attempting fix
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 SendServerIsDesynchronized-response from server: success
+PORT: 8080 2023/11/27 14:10:51 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 tried to bid 1, but highest bid is 19
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Bid: 1
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Bid-response from server: message:"fail"
+PORT: 8081 2023/11/27 14:10:51 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 1
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Bid: 1
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:51 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 tried to bid 1, but highest bid is 19
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Bid: 1
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:51 Bid-response from server: message:"fail"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:53 Result-response from server: highest_bid:19  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:53 Server: 8081 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:53 Result-response from server: highest_bid:19  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:53 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:53 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:53 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:53 Highest bid is 19
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:53 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Result-response from server: highest_bid:19  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Result-response from server: highest_bid:1  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Result-response from server: highest_bid:19  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Highest bid is 19
+PORT: 8081 2023/11/27 14:10:54 Server has been made aware that it is desynchronized, attempting fix
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 SendServerIsDesynchronized-response from server: success
+PORT: 8080 2023/11/27 14:10:54 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 20
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Bid: 20
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:54 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 20
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Bid: 20
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:54 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 20
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Bid: 20
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:54 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:55 Result-response from server: highest_bid:20  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:55 Result-response from server: highest_bid:20  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:55 Result-response from server: highest_bid:20  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:55 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:55 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:55 Highest bid is 20
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:55 I am the highest bidder!
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Result-response from server: highest_bid:20  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Result-response from server: highest_bid:20  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Result-response from server: highest_bid:20  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Highest bid is 20
+PORT: 8080 2023/11/27 14:10:55 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 21
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Bid: 21
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:55 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 21
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Bid: 21
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:55 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 21
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Bid: 21
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:55 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:56 Result-response from server: highest_bid:21  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:56 Result-response from server: highest_bid:21  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:56 Result-response from server: highest_bid:21  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:56 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:56 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:56 Highest bid is 21
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:10:56 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Result-response from server: highest_bid:21  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Result-response from server: highest_bid:21  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Result-response from server: highest_bid:21  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Highest bid is 21
+PORT: 8080 2023/11/27 14:10:58 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 22
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Bid: 22
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:10:58 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 22
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Bid: 22
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:10:58 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 22
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Bid: 22
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:10:58 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Result-response from server: highest_bid:22  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Result-response from server: highest_bid:22  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Result-response from server: highest_bid:22  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Highest bid is 22
+PORT: 8080 2023/11/27 14:11:00 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 23
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Bid: 23
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:00 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 23
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Bid: 23
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:00 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 23
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Bid: 23
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:00 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:01 Result-response from server: highest_bid:23  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:01 Result-response from server: highest_bid:23  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:01 Result-response from server: highest_bid:23  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:01 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:01 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:01 Highest bid is 23
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:01 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Result-response from server: highest_bid:23  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Result-response from server: highest_bid:23  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Result-response from server: highest_bid:23  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Highest bid is 23
+PORT: 8080 2023/11/27 14:11:02 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 24
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Bid: 24
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:02 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 24
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Bid: 24
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:02 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 24
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Bid: 24
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:02 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Result-response from server: highest_bid:24  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Server: 8081 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Server: 8082 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Highest bid is 24
+PORT: 8080 2023/11/27 14:11:05 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 25
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Bid: 25
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Bid: 25
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Bid-response from server: <nil>
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Bid: 25
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:05 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Result-response from server: highest_bid:25  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Server: 8081 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Server: 8082 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Highest bid is 25
+PORT: 8080 2023/11/27 14:11:06 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 26
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Bid: 26
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Bid: 26
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Bid: 26
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:06 Bid-response from server: <nil>
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Result-response from server: highest_bid:26  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Server: 8081 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Server: 8082 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Highest bid is 26
+PORT: 8080 2023/11/27 14:11:07 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 27
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Bid: 27
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Bid: 27
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Bid-response from server: <nil>
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Bid: 27
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:07 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Result-response from server: highest_bid:27  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Server: 8081 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Server: 8082 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Highest bid is 27
+PORT: 8080 2023/11/27 14:11:09 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 28
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Bid: 28
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Bid: 28
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Bid: 28
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:09 Bid-response from server: <nil>
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Result-response from server: highest_bid:28  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Server: 8081 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Server: 8082 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Highest bid is 28
+PORT: 8080 2023/11/27 14:11:11 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 29
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Bid: 29
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Bid: 29
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Bid-response from server: <nil>
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Bid: 29
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:11 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Result-response from server: highest_bid:29  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Server: 8081 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Server: 8082 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Highest bid is 29
+PORT: 8080 2023/11/27 14:11:12 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 30
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Bid: 30
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Bid: 30
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Bid: 30
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:12 Bid-response from server: <nil>
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Result-response from server: highest_bid:30  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Server: 8081 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Server: 8082 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Highest bid is 30
+PORT: 8080 2023/11/27 14:11:12 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 31
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Bid: 31
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Bid: 31
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Bid-response from server: <nil>
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Bid: 31
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:12 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Result-response from server: highest_bid:31  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Server: 8081 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Server: 8082 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Highest bid is 31
+PORT: 8080 2023/11/27 14:11:14 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 32
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Bid: 32
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Bid: 32
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8081: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Bid: 32
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:14 Bid-response from server: <nil>
+PORT: 8081 2023/11/27 14:11:14 Auction ends at:  2023-11-27 14:12:00 +0100 CET
+PORT: 8081 2023/11/27 14:11:14 until:  45.582521926
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:15 Result-response from server: highest_bid:32  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:15 Server: 8081 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:15 Server: 8082 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:15 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:15 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:15 Highest bid is 32
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:15 I am the highest bidder!
+PORT: 8082 2023/11/27 14:11:15 Auction ends at:  2023-11-27 14:12:00 +0100 CET
+PORT: 8082 2023/11/27 14:11:15 until:  44.540425593
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:16 Result-response from server: highest_bid:32  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:16 Result-response from server: 
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:16 Server: 8082 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:16 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:16 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:16 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:16 Highest bid is 32
+PORT: 8081 2023/11/27 14:11:16 Server has been made aware that it is desynchronized, attempting fix
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:16 SendServerIsDesynchronized-response from server: success
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:16 I am the highest bidder!
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Result-response from server: highest_bid:32  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Result-response from server: highest_bid:32  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Server: 8082 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Highest bid is 32
+PORT: 8080 2023/11/27 14:11:16 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 33
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Bid: 33
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:16 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 33
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Bid: 33
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Bid: 33
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:16 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Result-response from server: highest_bid:33  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Result-response from server: highest_bid:33  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Server: 8082 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Highest bid is 33
+PORT: 8080 2023/11/27 14:11:17 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 34
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Bid: 34
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:17 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 34
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Bid: 34
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Bid: 34
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:17 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:19 Result-response from server: highest_bid:34  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:19 Result-response from server: highest_bid:34  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:19 Server: 8082 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:19 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:19 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:19 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:19 Highest bid is 34
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:19 I am the highest bidder!
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Result-response from server: highest_bid:34  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Result-response from server: highest_bid:34  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Server: 8082 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Highest bid is 34
+PORT: 8080 2023/11/27 14:11:19 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 35
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Bid: 35
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:19 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 35
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Bid: 35
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Bid: 35
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:19 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Result-response from server: highest_bid:35  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Result-response from server: highest_bid:35  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Server: 8082 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Highest bid is 35
+PORT: 8080 2023/11/27 14:11:20 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 36
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Bid: 36
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:20 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 36
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Bid: 36
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Bid: 36
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8082: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:20 Bid-response from server: <nil>
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:22 Result-response from server: highest_bid:36  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:22 Result-response from server: highest_bid:36  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:22 Result-response from server: 
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:22 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:22 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:22 Highest bid is 36
+PORT: 8082 2023/11/27 14:11:22 Server has been made aware that it is desynchronized, attempting fix
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:22 SendServerIsDesynchronized-response from server: success
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:22 I am the highest bidder!
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Result-response from server: highest_bid:36  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Result-response from server: highest_bid:36  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Result-response from server: highest_bid:36  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Highest bid is 36
+PORT: 8080 2023/11/27 14:11:22 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 37
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Bid: 37
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:22 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 37
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Bid: 37
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:22 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 37
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Bid: 37
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:22 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Result-response from server: highest_bid:37  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Result-response from server: highest_bid:37  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Result-response from server: highest_bid:37  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Highest bid is 37
+PORT: 8080 2023/11/27 14:11:24 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 38
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Bid: 38
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:24 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 38
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Bid: 38
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:24 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 38
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Bid: 38
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:24 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Result-response from server: highest_bid:38  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Result-response from server: highest_bid:38  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Result-response from server: highest_bid:38  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Highest bid is 38
+PORT: 8080 2023/11/27 14:11:25 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 39
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Bid: 39
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:25 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 39
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Bid: 39
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:25 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 39
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Bid: 39
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:25 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Result-response from server: highest_bid:39  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Result-response from server: highest_bid:39  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Result-response from server: highest_bid:39  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Highest bid is 39
+PORT: 8080 2023/11/27 14:11:26 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 40
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Bid: 40
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:26 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 40
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Bid: 40
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:26 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 40
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Bid: 40
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:26 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Result-response from server: highest_bid:40  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Result-response from server: highest_bid:40  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Result-response from server: highest_bid:40  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Highest bid is 40
+PORT: 8080 2023/11/27 14:11:29 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 41
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Bid: 41
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:29 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 41
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Bid: 41
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:29 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 41
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Bid: 41
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:29 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Result-response from server: highest_bid:41  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Result-response from server: highest_bid:41  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Result-response from server: highest_bid:41  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Highest bid is 41
+PORT: 8080 2023/11/27 14:11:30 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 42
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Bid: 42
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:30 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 42
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Bid: 42
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:30 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 42
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Bid: 42
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:30 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Result-response from server: highest_bid:42  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Result-response from server: highest_bid:42  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Result-response from server: highest_bid:42  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Highest bid is 42
+PORT: 8080 2023/11/27 14:11:32 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 43
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Bid: 43
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:32 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 43
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Bid: 43
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:32 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 43
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Bid: 43
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:32 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Result-response from server: highest_bid:43  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Result-response from server: highest_bid:43  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Result-response from server: highest_bid:43  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Highest bid is 43
+PORT: 8080 2023/11/27 14:11:33 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 44
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Bid: 44
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:33 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 44
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Bid: 44
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:33 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 44
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Bid: 44
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:33 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Result-response from server: highest_bid:44  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Result-response from server: highest_bid:44  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Result-response from server: highest_bid:44  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Highest bid is 44
+PORT: 8080 2023/11/27 14:11:35 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 45
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Bid: 45
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:35 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 45
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Bid: 45
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:35 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 45
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Bid: 45
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:35 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Result-response from server: highest_bid:45  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Result-response from server: highest_bid:45  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Result-response from server: highest_bid:45  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Highest bid is 45
+PORT: 8080 2023/11/27 14:11:37 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 46
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Bid: 46
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:37 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 46
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Bid: 46
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:37 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 46
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Bid: 46
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:37 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Result-response from server: highest_bid:46  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Result-response from server: highest_bid:46  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Result-response from server: highest_bid:46  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Highest bid is 46
+PORT: 8080 2023/11/27 14:11:37 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 47
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Bid: 47
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:37 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 47
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Bid: 47
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:37 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 47
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Bid: 47
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:37 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:38 Result-response from server: highest_bid:47  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:38 Result-response from server: highest_bid:47  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:38 Result-response from server: highest_bid:47  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:38 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:38 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:38 Highest bid is 47
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:38 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Result-response from server: highest_bid:47  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Result-response from server: highest_bid:47  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Result-response from server: highest_bid:47  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Highest bid is 47
+PORT: 8080 2023/11/27 14:11:39 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 48
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Bid: 48
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:39 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 48
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Bid: 48
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:39 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 48
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Bid: 48
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:39 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Result-response from server: highest_bid:48  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Result-response from server: highest_bid:48  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Result-response from server: highest_bid:48  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Highest bid is 48
+PORT: 8080 2023/11/27 14:11:39 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 49
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Bid: 49
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:39 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 49
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Bid: 49
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:39 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 49
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Bid: 49
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:39 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Result-response from server: highest_bid:49  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Result-response from server: highest_bid:49  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Result-response from server: highest_bid:49  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Highest bid is 49
+PORT: 8080 2023/11/27 14:11:41 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 50
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Bid: 50
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:41 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 50
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Bid: 50
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:41 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 50
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Bid: 50
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:41 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Result-response from server: highest_bid:50  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Result-response from server: highest_bid:50  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Result-response from server: highest_bid:50  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Highest bid is 50
+PORT: 8080 2023/11/27 14:11:42 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 51
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Bid: 51
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:42 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 51
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Bid: 51
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:42 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 51
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Bid: 51
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:42 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:43 Result-response from server: highest_bid:51  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:43 Result-response from server: highest_bid:51  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:43 Result-response from server: highest_bid:51  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:43 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:43 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:43 Highest bid is 51
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:43 I am the highest bidder!
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:44 Result-response from server: highest_bid:51  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:44 Result-response from server: highest_bid:51  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:44 Result-response from server: highest_bid:51  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:44 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:44 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:44 Highest bid is 51
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:44 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Result-response from server: highest_bid:51  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Result-response from server: highest_bid:51  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Result-response from server: highest_bid:51  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Highest bid is 51
+PORT: 8080 2023/11/27 14:11:45 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 52
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Bid: 52
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:45 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 52
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Bid: 52
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:45 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 52
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Bid: 52
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:45 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Result-response from server: highest_bid:52  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Result-response from server: highest_bid:52  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Result-response from server: highest_bid:52  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Highest bid is 52
+PORT: 8080 2023/11/27 14:11:45 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 53
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Bid: 53
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:45 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 53
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Bid: 53
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:45 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 53
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Bid: 53
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:45 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Result-response from server: highest_bid:53  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Result-response from server: highest_bid:53  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Result-response from server: highest_bid:53  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Highest bid is 53
+PORT: 8080 2023/11/27 14:11:48 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 54
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Bid: 54
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:48 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 54
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Bid: 54
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:48 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 54
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Bid: 54
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:48 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Result-response from server: highest_bid:54  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Result-response from server: highest_bid:54  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Result-response from server: highest_bid:54  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Highest bid is 54
+PORT: 8080 2023/11/27 14:11:49 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 55
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Bid: 55
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Bid-response from server: message:"success"
+PORT: 8081 2023/11/27 14:11:49 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 55
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Bid: 55
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:49 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 55
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Bid: 55
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:49 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:50 Server: 8080 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:50 Result-response from server: highest_bid:55  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:50 Result-response from server: highest_bid:55  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:50 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:50 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:50 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:50 Highest bid is 55
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:50 I am the highest bidder!
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Server: 8080 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Result-response from server: highest_bid:55  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Result-response from server: highest_bid:55  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Highest bid is 55
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Bid: 56
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8080: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Bid-response from server: <nil>
+PORT: 8081 2023/11/27 14:11:51 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 56
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Bid: 56
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:51 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 56
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Bid: 56
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:51 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Server: 8080 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Result-response from server: highest_bid:56  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Result-response from server: highest_bid:56  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Highest bid is 56
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Bid: 57
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8080: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Bid-response from server: <nil>
+PORT: 8081 2023/11/27 14:11:52 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 57
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Bid: 57
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:52 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 57
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Bid: 57
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:52 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Server: 8080 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Result-response from server: highest_bid:57  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Result-response from server: highest_bid:57  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Highest bid is 57
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Bid: 58
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8080: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Bid-response from server: <nil>
+PORT: 8081 2023/11/27 14:11:54 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 58
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Bid: 58
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:54 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 58
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Bid: 58
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:54 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Server: 8080 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Result-response from server: highest_bid:58  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Result-response from server: highest_bid:58  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Highest bid is 58
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Bid: 59
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8080: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Bid-response from server: <nil>
+PORT: 8081 2023/11/27 14:11:54 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 59
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Bid: 59
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:54 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 59
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Bid: 59
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:54 Bid-response from server: message:"success"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Server: 8080 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Result-response from server: highest_bid:59  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Result-response from server: highest_bid:59  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Auction is over: false
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Highest bid is 59
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Bid: 60
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8080: connect: connection refused"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Bid-response from server: <nil>
+PORT: 8081 2023/11/27 14:11:57 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 60
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Bid: 60
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:57 Client eab7ca00-1f50-4611-8864-22ff9b2ca7f6 bid 60
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Bid: 60
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:11:57 Bid-response from server: message:"success"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Server: 8080 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Result-response from server: highest_bid:60  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Result-response from server: highest_bid:60  highest_bidder:"eab7ca00-1f50-4611-8864-22ff9b2ca7f6"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Auction is over: false
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Highest bidder is eab7ca00-1f50-4611-8864-22ff9b2ca7f6
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Highest bid is 60
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Bid: 61
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Error when calling Bid: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial tcp [::1]:8080: connect: connection refused"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Bid-response from server: <nil>
+PORT: 8081 2023/11/27 14:11:57 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 61
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Bid: 61
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:11:57 Client 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a bid 61
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Bid: 61
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:11:57 Bid-response from server: message:"success"
+PORT: 8082 2023/11/27 14:12:00 Auction is over
+PORT: 8081 2023/11/27 14:12:00 Auction is over
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:12:00 Server: 8080 is down
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:12:00 Result-response from server: is_over:true  highest_bid:61  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:12:00 Result-response from server: is_over:true  highest_bid:61  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:12:00 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:12:00 Auction is over: true
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:12:00 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:12:00 Highest bid is 61
+CLIENT:662a8183-7458-4272-93c0-100ada0850d4 2023/11/27 14:12:00 Auction is over!
+Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a with bid 61
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:12:00 Server: 8080 is down
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:12:00 Result-response from server: is_over:true  highest_bid:61  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:12:00 Result-response from server: is_over:true  highest_bid:61  highest_bidder:"4f587b56-e4d7-4cb4-a3f4-053bfbb1205a"
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:12:00 Even amunt of servers: Duplicating a server to ensure a majority
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:12:00 Auction is over: true
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:12:00 Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:12:00 Highest bid is 61
+CLIENT:2977b6cd-be1b-41db-93d8-06345d17d301 2023/11/27 14:12:00 Auction is over!
+Highest bidder is 4f587b56-e4d7-4cb4-a3f4-053bfbb1205a with bid 61
